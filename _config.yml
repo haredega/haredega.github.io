@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Engineering, BI and related topics"
+title                    : "Heitor Garcia| Engineering, BI and related topics"
 title_separator          : "|"
 name                     : "Heitor Garcia"
 description              : "The right place if you are looking for someone with a wide range of skills in electrical engineering, information technology and BI."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "teaser-photo.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -28,7 +28,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 
 # SEO Related
-google_site_verification :
+google_site_verification : "m38et_FYt0s5I0ojI_NOQrJ2nGnN9d2HZnisB9tl8Qk"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -40,19 +40,21 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "teaser-photo.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+       - "https://twitter.com/haredega"
+       - "https://www.linkedin.com/in/heitor-arede-garcia-189a57b4"
+       - "https://github.com/haredega"
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-78049612-1"
 
 # Google AdSense
 google_ad_client         :
