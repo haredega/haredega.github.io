@@ -63,7 +63,7 @@ google_ad_slot           :
 author:
   name             : "Heitor Arede Garcia"
   avatar           : "bio-photo.jpg"
-  bio              : "Future engineer eager to use technology to leverage development, favorising the human aspect on systems. Interested in smart grid, data science and business intelligence."
+  bio              : "Future engineer eager to use technology to leverage development, favorising the human aspect on systems.\n Interested in smart grid, data science and business intelligence."
   location         : "Campinas, SP @Brazil"
   email            : "hgarcia.ee@gmail.com"
   uri              :
@@ -73,18 +73,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/haredega"
+  github           : "haredega"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/heitor-arede-garcia-189a57b4"
+  linkedin         : "heitor-arede-garcia-189a57b4"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/haredega"
+  twitter          : "haredega"
   vine             :
   weibo            :
   xing             :
