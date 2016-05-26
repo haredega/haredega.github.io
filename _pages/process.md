@@ -22,5 +22,5 @@ Well, once the plan has been sufficiently developed, it is time to literally che
 3
 "
 sitemap: false
-permalink: /process.html
+permalink: /process/
 ---

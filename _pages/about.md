@@ -9,5 +9,5 @@ Right now I'm in an internship at Elektro. I'll be graduating early August, and 
 Last year I got the chance to work with professor Paulo Lemos in an Entrepreneurship course at Coursera as a Undergraduate Teaching Assistant. This experience was very rewarding, as I'm also interested in the teaching/learning relationship and how technologies will change it.
 "
 sitemap: false
-permalink: /about.html
+permalink: /about/
 ---
