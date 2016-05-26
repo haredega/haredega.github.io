@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About"
-    url: /about.html
+    url: /about/
 
   - title: "Process"
-    url: /process.html
+    url: /process/
 
   - title: "Scouting"
-    url: /scouting.html
+    url: /scouting/
 
 #  - title: "What I've been up to"
 #    url: /what_ive_been_up_to.html
