@@ -15,7 +15,9 @@ This first step involves a lot of questions. Not only talking to the main stakeh
 Step 2 - Gathering information
 ===
 <p><i class="fa fa-search  fa-5x fa-pull-left" aria-hidden="true"></i>
-After understanding the goal, I try to gather pieces of information on the means - how people do it right now, how they think it could be enhanced, is there anything they would change about the current solution to the problem? After collecting this information, I like to extend my research to other related solutions that are proposed everywhere else. I love to discover new technologies and ideas that implement or simplify what I'm up to.</p>
+After understanding the goal, I try to gather pieces of information on the means - how people do it right now, how they think it could be enhanced, is there anything they would change about the current solution to the problem? After collecting this information, I like to extend my research to other related solutions.
+
+I love to discover new technologies and ideas that implement or simplify what I'm up to.</p>
 
 Step 3 - Propose a Solution
 ===
