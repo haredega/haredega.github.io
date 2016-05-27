@@ -24,6 +24,7 @@ Step 3 - Propose a Solution
 <i class="fa fa-pencil-square-o  fa-5x fa-pull-left" aria-hidden="true"></i>
 After enumerating and presenting the main solutions and weighting the pros and cons, I like to come up with an action plan to implement the strategies that are chosen.
 
+
 Step 4 - It's time for the making!
 ===
 <i class="fa fa-cogs fa-5x fa-pull-left" aria-hidden="true"></i>
