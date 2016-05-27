@@ -1,7 +1,7 @@
 ---
 title: "About  me"
 layout: single
-permalink: /about/
+permalink: /about.html
 excerpt: "Hello there!\n My name is Heitor Garcia, and I am a future engineer with a double-degree."
 ---
 #My professional interests include distribution networks, databases, web based technologies, User Experience (UX) and Business Intelligence.
