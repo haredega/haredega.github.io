@@ -17,7 +17,7 @@ Step 2 - Gathering information
 <i class="fa fa-search  fa-5x fa-pull-left" aria-hidden="true"></i>
 After understanding the goal, I try to gather pieces of information on the means - how people do it right now, how they think it could be enhanced, is there anything they would change about the current solution to the problem? After collecting this information, I like to extend my research to other related solutions.
 
-<p style="margin-left: 110px;"> I love to discover new technologies and ideas that implement or simplify what I'm up to.</p>
+<p style="margin-left: 110px;"><i><b> I love to discover new technologies and ideas that implement or simplify what I'm up to.</b></i></p>
 
 Step 3 - Propose a Solution
 ===
