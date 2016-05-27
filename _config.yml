@@ -199,6 +199,33 @@ tags:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+#Added by Heitor Garcia
+#From the MMistakes guide
+#Defines Default Front Matter Settings for Navigation Pages
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+#Added by Heitor Garcia
+#From the MMistakes guide
+#Defines Default Front Matter Settings for Posts
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 
 # HTML Compression
 # - http://jch.penibelst.de/
