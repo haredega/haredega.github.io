@@ -1,10 +1,13 @@
 ---
-title: "Working with me"
+title: "What working with me is like"
 layout: single
 excerpt: "Modus Operandi - Personal working process and methods"
 sitemap: false
 permalink: /process/
+author_profile: true
 ---
+
+**Well, you might have read what I like to do. Now, a sneak peek on the *how*.**
 As an engineer, I really like processes. I tend to try and understand the world as being logic, and I also like to create things so they can escalate and become methods to be repeated - by me or, if possible, a machine. I'm also very fond of structuring and listing the steps to achieve my goals - both in professional and personal life.
 If you would like to know more about how I work, please read on!
 
