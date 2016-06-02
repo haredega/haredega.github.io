@@ -21,4 +21,5 @@ Striving to create a better world, where involvement, recognition and intergener
 
 [^1]:**This means I'm *really* into different cultures and languages, and also that I'm a fast learner who easily adapts to different environments.**
     That might not be literal, but is pretty close to how we end up after the combination of very specific studies in one country then general engineering studies in another one.
+
 [^2]: From the [Scout Mission](https://www.scout.org/mission "Scout.org")
