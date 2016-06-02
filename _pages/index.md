@@ -1,6 +1,7 @@
 ---
 title: "About  me"
 layout: single
+permalink: /
 sitemap: false
 excerpt: "About Heitor Arede Garcia"
 author_profile: true
