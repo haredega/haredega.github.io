@@ -1,7 +1,7 @@
 ---
 title: "About  me"
 layout: single
-permalink: /
+permalink: /index/
 sitemap: false
 excerpt: "About Heitor Arede Garcia"
 ---
