@@ -35,4 +35,4 @@ Step 4 - It's time for the making!
 <i class="fa fa-cogs fa-5x fa-pull-left" aria-hidden="true"></i>
 Well, once the plan has been sufficiently developed, it is time to literally check all the items on the check list, until there's an agreement on the quality of the delivered work.
 
-<p style="margin-left: 110px;"><i><b>To keep things clear, I like to keep record of the steps made and, if possible, share it on a shared platform, such as Trello.</b></i></p>
+<p style="margin-left: 110px;"><i><b>To keep things clear, I like to keep record of the steps made and, if possible, share it on a platform, such as Trello.</b></i></p>
