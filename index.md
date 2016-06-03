@@ -17,6 +17,7 @@ When I'm not at it, I like to sit on my piano, cook and hang out with friends, o
 
 Striving to create a better world, where involvement, recognition and intergenerational exchange are no longer a dream.
 
+Finally, I happen to have a favorite quote about engineering:
 *It’s still magic even if you know how it’s done*. – Terry Pratchett, A Hat Full of Sky
 
 [^1]:**This means I'm *really* into different cultures and languages, and also that I'm a fast learner who easily adapts to different environments.**
