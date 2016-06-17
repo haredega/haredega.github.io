@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Scouting"
 layout: single
 excerpt: "Scouting - life and nature"
