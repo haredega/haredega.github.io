@@ -4,6 +4,7 @@ layout: single
 excerpt: "Scouting - life and nature"
 sitemap: false
 permalink: /scouting/
+author_profile: true
 ---
 
 ![full]("https://s3-sa-east-1.amazonaws.com/haredega-git-imgs/scout_condec.JPG")
