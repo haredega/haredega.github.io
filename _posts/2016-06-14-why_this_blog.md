@@ -3,6 +3,7 @@ title: "The one with all the why's"
 excerpt: "I thought the first post I'd be making should be about the reasons that make me create yet another blog."
 sitemap: false
 ---
+
 I thought the first post I'd be making should be about the reasons that make me create yet another blog. So, here are some of them:
 
 A 1st shot at maintaining a real-life web-page
