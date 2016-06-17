@@ -7,7 +7,7 @@ permalink: /scouting/
 author_profile: true
 ---
 
-![full](https://s3-sa-east-1.amazonaws.com/haredega-git-imgs/scout_condec.JPG)
+![full](https://s3-sa-east-1.amazonaws.com/haredega-git-imgs/scout_condec.jpg)
 {: .full}
 
 Right now, I'm a volunteer at Grupo Escoteiro Utu-Guaçú (http://www.utuguacu.org.br/) . As a team of 5 cub scout chiefs, we work with about 30 cub-scouts. We propose activities that help them discover the nature and develop themselves around 6 axes of personal growth.
