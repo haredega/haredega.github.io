@@ -9,5 +9,6 @@ main:
   - title: "Scouting"
     url: /scouting/
 
-#  - title: "What I've been up to"
-#    url: /what_ive_been_up_to.html
+  - title: "MOOC's"
+    url: /MOOCs/
+    
