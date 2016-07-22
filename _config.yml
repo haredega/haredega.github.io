@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Heitor Garcia"
+title                    : "About"
 title_separator          : "|"
-name                     : "Heitor Garcia"
+name                     : "Heitor Arede Garcia"
 description              : "The right place if you are looking for someone with a wide range of skills in electrical engineering, information technology and BI."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

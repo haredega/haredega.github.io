@@ -20,6 +20,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.9.10)
     ffi (1.9.10-x64-mingw32)
+    ffi (1.9.10-x86-mingw32)
     gemoji (2.1.0)
     github-pages (78)
       github-pages-health-check (= 1.1.0)
@@ -99,6 +100,8 @@ GEM
       mini_portile2 (~> 2.0.0.rc2)
     nokogiri (1.6.7.2-x64-mingw32)
       mini_portile2 (~> 2.0.0.rc2)
+    nokogiri (1.6.7.2-x86-mingw32)
+      mini_portile2 (~> 2.0.0.rc2)
     octokit (4.3.0)
       sawyer (~> 0.7.0, >= 0.5.3)
     public_suffix (1.5.3)
@@ -122,10 +125,11 @@ GEM
 PLATFORMS
   ruby
   x64-mingw32
+  x86-mingw32
 
 DEPENDENCIES
   github-pages
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-   1.11.2
+   1.12.5

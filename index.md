@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Heitor Arede Garcia"
 layout: single
 sitemap: false
 excerpt: "About Heitor Arede Garcia"
