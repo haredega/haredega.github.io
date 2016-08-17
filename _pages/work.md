@@ -7,9 +7,10 @@ permalink: /work/
 author_profile: true
 ---
 My professional interests include distribution networks, databases, web based technologies, User Experience (UX) and Business Intelligence.
+Right now I'm in looking for a full-time job in technology or BI.
 
-Right now I'm in an internship at Elektro. I'll be graduating early August, and I'm looking forward to face all the challenges that are out there. I've been involved in projects ranging from requirements specification of a web based app to cohesion and extractions of large databases with geographical information. I've lately been involved in an operational research project in which we'll be using linear programming for decision making.
+My last project was during my internship at Elektro, until July 2016. It involved operational research, with linear programming for decision making.I've also been involved in projects ranging from requirements specification of a web based app to cohesion and extractions of large databases with geographical information.
 
 Last year I got the chance to work with professor Paulo Lemos in an Entrepreneurship course at Coursera as a Undergraduate Teaching Assistant. This experience was very rewarding, as I'm also interested in the teaching/learning relationship and how technologies will change it.
 
-If you have read all of this, you might as well be interested in taking a look on [how I work](/process) .
+If you have read all of this, you might as well be interested in taking a look on [how I work](/process) , or [where I have been](https://www.linkedin.com/in/heitor-arede-garcia-189a57b4) .
