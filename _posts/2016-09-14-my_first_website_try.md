@@ -1,4 +1,4 @@
-  ---
+---
 title: "My first website attempt"
 excerpt: "Even though my unemployment didn't last long, I could still work on this."
 sitemap: false
