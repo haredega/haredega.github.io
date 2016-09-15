@@ -27,12 +27,14 @@ good SEO or how to get a design with a 100% fluid UX. That beins said, I started
 out with the same model I used for the "error 404" page I put online as soon as
 I got him the domain.
 
-(https://s3-sa-east-1.amazonaws.com/haredega-git-imgs/error404.PNG)
+![full](https://s3-sa-east-1.amazonaws.com/haredega-git-imgs/error404.PNG)
+{: .full}
 
 I wanted to keep it simple, so I decided to let only the essential information -
 so I have a 1 level taxonomy with only 5 static web pages.
 
-(https://s3-sa-east-1.amazonaws.com/haredega-git-imgs/header.PNG)
+![full](https://s3-sa-east-1.amazonaws.com/haredega-git-imgs/header.PNG)
+{: .full}
 
 As I also wanted to showcase the people working there and the place itself, I
 made two separate pages for that. Same to the treatment options. As is is a
