@@ -43,4 +43,9 @@ along with a brief explanation of how it works.
 
 When I get final approval from all of the doctors, I'm gonna host it at AWS
 with, at first, a free tier account - in a bucket where the error page already
-is. *I'll post the link as soon as it's available.*
+is. 
+
+February 2017 Update
+---
+The account is no longer on a free tier, but it's still up and running.
+As promised, here goes the [page link](www.acupuntura-sbc.com.br)
