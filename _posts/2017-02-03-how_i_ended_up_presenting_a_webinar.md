@@ -22,7 +22,7 @@ What with this webinar stuff?
 ---
 Well, as I became some sort of *'fraud specialist'* if that exists, I ended up being chosen
  to participate on a webinar with one of our partners, [DotStore](http://site.dotstore.com.br/loja-virtual/), about
- e-commerce fraud. If you happen to speak portuguese, it is  available [right here](insert address).
+ e-commerce fraud. If you happen to speak portuguese, it is  available [right here](http://site.dotstore.com.br/loja-virtual/gravacao-webinar-como-proteger-sua-loja-virtual-contra-fraudes/).
 
 The feedback we've got so far has been really great, and the ones who joined us have been really nice and made such considerate questions. Even if the subject is one of the least spoken of when you're starting your business it ends up being one of the reasons that makes e-commerces shut.
 
@@ -36,3 +36,5 @@ I'll allow myself to point out some of the key points just to make this post use
 - Ways your PSP can help your e-commerce thrive or flop with fraud
 
 That's just the outline, the content is almost an hour of webinar with some really good questions in the end.
+I really hope to get more chances to share with others what I've been learning in here.
+See you soon!
