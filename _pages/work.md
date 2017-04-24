@@ -7,6 +7,7 @@ permalink: /work/
 author_profile: true
 ---
 My professional interests include distribution networks, databases, web based technologies, User Experience (UX) and Business Intelligence.
+
 Right now I'm in working as a full time Rism Management Analyst at Pagar.me, a PSP (Payment Service Provider), and I have an end-to-end participation in operational risk detection and mitigation projects.
 We've also started to implement a Compliance structure as an answer to the upcoming regulatory challenges on the company.
 
