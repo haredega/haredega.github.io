@@ -8,7 +8,7 @@ author_profile: true
 ---
 My professional interests include distribution networks, databases, web based technologies, User Experience (UX) and Business Intelligence.
 
-Right now I'm in working as a full time Rism Management Analyst at Pagar.me, a PSP (Payment Service Provider), and I have an end-to-end participation in operational risk detection and mitigation projects.
+Right now I'm in working as a full time Risk Management Analyst at Pagar.me, a PSP (Payment Service Provider), and I have an end-to-end participation in operational risk detection and mitigation projects.
 We've also started to implement a Compliance structure as an answer to the upcoming regulatory challenges on the company.
 
 My last university project involved operational research, with linear programming for decision making. It was during my internship at Elektro, until July 2016. I've also been involved in projects ranging from requirements specification of a web based app to cohesion and extractions of large databases with geographical information.
