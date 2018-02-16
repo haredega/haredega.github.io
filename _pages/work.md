@@ -32,7 +32,7 @@ As my close relationship with the distribution grid goes back to college, I choo
 
 # Start up, Entrepreneurship and Fintechs
 
-## Pagar.me
+## [Pagar.me](pagar.me)
 I'm my last job as a Risk Management Analyst at [Pagar.me](pagar.me), a PSP (Payment Service Provider) I had an end-to-end participation in operational risk detection and mitigation projects. We've also started to implement a Compliance structure as an answer to the upcoming regulatory challenges on the company. 
 It has been a huge opportunity to better understand how working in a financial environment doesn't mean everyone is mean and life's awful and you get no time for yourself, and all of that financial market stuff we hear everywhere. I got a chance to meet very intentional people, who do their best to answer to their customers needs while being competitive and developing a beautiful culture.
 

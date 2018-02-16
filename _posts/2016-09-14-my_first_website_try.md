@@ -48,4 +48,4 @@ is.
 February 2017 Update
 ---
 The account is no longer on a free tier, but it's still up and running.
-As promised, here goes the [page link](www.acupuntura-sbc.com.br)
+As promised, here goes the [page link](http://www.acupuntura-sbc.com.br)

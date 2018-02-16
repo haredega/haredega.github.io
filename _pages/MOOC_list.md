@@ -8,9 +8,25 @@ permalink: /MOOCs/
 
 As the title says, this is a list of the MOOC's I'm taking or have taken in the past. Differently from what the same title says, it will not necessarily be extensive ( I might end up forgetting to update it, or simply think it is not worth loosing my time listing it here )
 
-I did a review on the platforms [here](/blog/2016/07/22/e_learning_courses_review.html), but if you need specific advice on any of them, don't hesitate and tweet me about it.
+I did a review on the platforms [here](e_learning_courses_review.html), but if you need specific advice on any of them, don't hesitate and tweet me about it.
 
-*Updated on June 22nd 2016*
+*Updated on February 16nd 2018*
+Skillshare
+===
+
+Course Name | % achieved | Comments
+:-----: | :-----: | :-----:
+[
+Productivity Habits That Stick: Using Time Theming](https://www.skillshare.com/classes/Productivity-Habits-That-Stick-Using-Time-Theming) | 100%  |
+[
+Productivity Today: Managing Attention in the Digital Age](https://www.skillshare.com/classes/Productivity-Today-Managing-Attention-in-the-Digital-Age/) | 100%  | 
+[
+How to Make a Great Talking Head Video (even when camera shy)](https://www.skillshare.com/classes/How-to-Make-a-Great-Talking-Head-Video-%28even-when-camera-shy%29) | 100%  |
+
+*well, as you can see, lately I've changed a bit the kind of course. After getting a free 2 month link from [The Financial Diet](thefinancialdiet.com), I thought it could be a great idea to see what they were up to, and I'm so far loving it! The courses are fast paced and teachers break it down quite clearly. *
+
+
+
 
 Udacity
 ===
