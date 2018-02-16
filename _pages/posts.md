@@ -8,12 +8,10 @@ excerpt: "This is my spot. But you still can stay around and take a look on what
 author_profile: true
 ---
 
-{% include base_path %}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
+{% for year in postsByYear %}
+  <h2 id="{{ year.name | slugify }}" class="archive__subtitle">{{ year.name }}</h2>
+  {% for post in year.items %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% endfor %}
-
-{% include paginator.html %}
