@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Random Writing"
-    url: /blog/
+    url: /posts/
 
   - title: "Work"
     url: /work/
