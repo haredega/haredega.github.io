@@ -5,12 +5,12 @@ sitemap: false
 excerpt: "About Heitor Arede Garcia"
 author_profile: true
 ---
-Hello there! My name is Heitor Garcia, and I am a future engineer with a double-degree[^1].
+Hello there! My name is Heitor Garcia, and I am an engineer with a double-degree[^1].
 
 Half brazilian and half of the world, I'm interested in world culture, languages, music, food and anything else that might make us the same everywhere.
 Including math. And also including awful puns if I manage to understand them in the local dialect.
 
-I spend most of my saturdays as a Scout Chief, which means basically *playing around in the nature*{: style="text-decoration: line-through"}
+I love to spend my free time as a Scout Chief, which means basically *playing around in the nature*{: style="text-decoration: line-through"}
 developing pedagogical activities with young people so they can develop themselves to become *self-fulfilled as individuals and play a constructive role in society*[^2].
 
 When I'm not at it, I like to sit on my piano, cook and hang out with friends, or read.
