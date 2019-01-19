@@ -47,7 +47,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-       - "https://twitter.com/haredega"
+       - "https://twitter.com/_heitorgarcia"
        - "https://www.linkedin.com/in/heitor-arede-garcia-189a57b4"
        - "https://github.com/haredega"
 # Analytics
@@ -65,10 +65,10 @@ google_ad_slot           :
 author:
   name             : "Heitor Arede Garcia"
   avatar           : "bio-photo.jpg"
-  bio              : "Future engineer eager to use technology to leverage development, favorising the human aspect on systems."
-  location         : "Campinas, SP @Brazil"
+  bio              : "Engineer and the creator of decifranca.com.br. I'm commited to the use of technology to leverage development, favorising the human aspect on systems."
+  location         : "Angers @France"
   email            : "hgarcia.ee@gmail.com"
-  uri              :
+  uri              : "www.decifranca.com.br"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -78,7 +78,7 @@ author:
   github           : "haredega"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "_heitorgarcia"
   lastfm           :
   linkedin         : "heitor-arede-garcia-189a57b4"
   pinterest        :
@@ -86,11 +86,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "haredega"
+  twitter          : "_heitorgarcia"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "decifrança"
 
 
 # Reading Files
