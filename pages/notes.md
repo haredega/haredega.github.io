@@ -5,4 +5,4 @@ feedformat: card
 title: Digital Garden
 ---
 
-The feed page shows all notes from `notes` folder. If you want to hide any notes from this feed, add `feed:hide` on note's Frontmatter. Eg:[[Hidden Note]]
+This page shows all notes from this Digital Garden. If you want to discover a specific topic, why not go to the [[List Of Lists]] ?
